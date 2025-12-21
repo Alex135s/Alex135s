@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
   <h1>Hi 👋, I'm Geremy</h1>
-  <h3>I'm a Software Developer from Peru 🇵🇪</h3>
+  <h3>Ingeniero de Sistemas & Data Engineer from Peru 🇵🇪</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Alex135s&label=Profile%20views&color=0e75b6&style=flat" alt="Alex135s" />
@@ -10,19 +10,23 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Cloud Computing, Data Engineering & AI**.
-- 💼 I'm an **Ingeniero de Sistemas** passionate about building scalable solutions.
-- 🚀 All of my projects are available at [My Portfolio](https://alex135s.vercel.app) *(Cambia este link por el de tu Vercel)*
+- 🎓 **Ingeniero de Sistemas** especializado en Big Data y Arquitectura Cloud.
+- 🌱 I’m currently learning **Advanced ETLs, Kubernetes & AI Integration**.
+- 🚀 Expert in transforming raw data into strategic insights.
+- 💼 All of my projects are available at [My Portfolio](https://alex135s.vercel.app)
 - 📫 How to reach me: **geremy3132@gmail.com**
 
 ### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
 ### 🌐 Connect with me:
