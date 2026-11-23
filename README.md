@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
   <h1>Hi 👋, I'm Geremy</h1>
-  <h3>Ingeniero de Sistemas & data analytics from Peru 🇵🇪</h3>
+  <h3>Analita de Sistemas - ELECTRODUNAS from Peru 🇵🇪</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Alex135s&label=Profile%20views&color=0e75b6&style=flat" alt="Alex135s" />
@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Ingeniero de Sistemas** especializado en Big Data y Arquitectura Cloud.
+- 🎓 **ASISTENTE DE TI** Infraestructura y Telecomunicaciones en ELECTRODUNAS.
 - 🌱 I’m currently learning **Advanced ETLs, Kubernetes & AI Integration**.
 - 🚀 Expert in transforming raw data into strategic insights.
 - 💼 All of my projects are available at [My Portfolio](https://alex135s.vercel.app)
