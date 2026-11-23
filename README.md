@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
   <h1>Hi 👋, I'm Geremy</h1>
-  <h3>Analita de Sistemas - ELECTRODUNAS from Peru 🇵🇪</h3>
+  <h3>Asistente de TI - ELECTRODUNAS from Peru 🇵🇪</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Alex135s&label=Profile%20views&color=0e75b6&style=flat" alt="Alex135s" />
